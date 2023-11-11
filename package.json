@@ -1,0 +1,26 @@
+{
+  "name": "beecrowd",
+  "version": "1.0.0",
+  "description": "beecrowd resolutions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --config=jest.config.json --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delucagabriel/beecrowd.git"
+  },
+  "keywords": [
+    "beecrowd",
+    "typescript"
+  ],
+  "author": "Gabriel Mendes de Luca <gml3x7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delucagabriel/beecrowd/issues"
+  },
+  "homepage": "https://github.com/delucagabriel/beecrowd#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
